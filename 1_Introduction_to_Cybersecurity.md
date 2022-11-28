@@ -1,6 +1,7 @@
 [Back to Syllabus](./README.md#course-syllabus)
 
 ## 1.1.1 What Is Cybersecurity?
+
 - Image with selectable areas. Select each button to show more information
 - Cybersecurity is the ongoing effort to protect individuals, organizations and governments from digital attacks by protecting networked systems and data from unauthorized use or harm
 - Personal
@@ -23,11 +24,13 @@
 - Many people think that if they don’t have any social media or online accounts set up, then they don’t have an online identity. This is not the case. If you use the web, you have an online identity
 
 ## 1.1.3 Your Online Identity
+
 - It’s your first day on the job, and it’s time to choose a username for your online identity. Which of the following options would you choose?
 - This is your first chance to gain some valuable defender points at eLearning company @Apollo, so take your time and think carefully before making your choices.
 - Choose two correct answers, then Submit.
 
 ## 1.1.4 Your Data
+
 - Image with selectable areas. Select each button to show more information.
 - Personal data describes any information about you, including your name, social security number, driver license number, date and place of birth, your mother’s maiden name, and even pictures or messages that you exchange with family and friends
 - Cybercriminals can use this sensitive information to identify and impersonate you, infringing on your privacy and potentially causing serious damage to your reputation
@@ -42,6 +45,7 @@
     - Your financial records may include information about your income and expenditure. Your tax records may include paychecks, credit card statements, your credit rating and your bank account details. All of this data, if not safeguarded properly, can compromise your privacy and enable cybercriminals to use your information for their own gain
 
 ## 1.1.5 Where Is Your Data?
+
 - This has got you thinking. Only yesterday, you shared a couple of photos of your first day on the job with a few of your close friends. But that should be OK, right?
 - You took some photos at work on your mobile phone. Copies of these photos are now available on your mobile device
 - You shared these with five close friends, who live in various locations across the world
@@ -49,12 +53,14 @@
 - One of your friends was so proud that they decided to post and share your photos online. The photos are no longer just on your device. They have in fact ended up on servers located in different parts of the world and people whom you don’t even know now have access to your photos
 
 ## 1.1.6 What's More...
+
 - This is just one example that reminds us that every time we collect or share personal data, we should consider our security. There are different laws that protect your privacy and data in your country. But do you know where your data is?
 - Select the images for more examples which may not be so obvious
 - Following an appointment, the doctor will update your medical record. For billing purposes, this information may be shared with the insurance company. In such cases, your medical record, or part of it, is now accessible at the insurance company
 - Store loyalty cards may be a convenient way to save money on your purchases. However, the store is using this card to build a profile of your purchasing behavior, which it can then use to target you with special offers from its marketing partners
 
 ## 1.1.7 Smart Devices
+
 - Consider how often you use your computing devices to access your personal data. Unless you have chosen to receive paper statements, you probably access digital copies of bank account statements via your bank’s website. And when paying a bill, it’s highly likely that you’ve transferred the required funds via a mobile banking app
 - But besides allowing you to access your information, computing devices can now also generate information about you
 - Wearable technologies such as smartwatches and activity trackers collect your data for clinical research, patient health monitoring, and fitness and wellbeing tracking. As the global fitness tracker market grows, so also does the risk to your personal data.
@@ -62,12 +68,14 @@
 - For example, social media companies generate the majority of their income by selling targeted advertising based on customer data that has been mined using algorithms or formulas. Of course, these companies will argue that they are not ‘selling’ customer data, but ‘sharing’ customer data with their marketing partners
 
 ## 1.1.8 What Do Hackers Want?
+
 - So, with all this information about you available online, what do hackers want? Of course, they want your money
 - Can you think of an example that you have experienced yourself or that you have heard or read about, where cybercriminals have accessed or tried to access financial information online?
 - Share your example in the box below, then Submit. Once you have entered your example, select Show answer to reveal a summary response
 - Cybercriminals are certainly very imaginative when it comes to gaining access to your money. But that’s not all they are after — they could also steal your identity and ruin your life
 
 ## 1.1.9 Identity Theft
+
 - Not content with stealing your money for short-term financial gain, cybercriminals are invested in the long-term gain of identity theft
 - Select the cards for two examples of how they might do this
 - Medical theft
@@ -76,6 +84,7 @@
     - Stealing private data can help cybercriminals access bank accounts, credit cards, social profiles and other online accounts. Armed with this information, an identity thief could file a fake tax return and collect the refund. They could even take out loans in your name and ruin your credit rating (and your life as well)
 
 ## 1.1.10 Who Else Wants My Data?
+
 - It’s not just criminals who seek your personal data
 - Select the headings below to find out what other entities are interested in your online identity and why
 - Your Internet service provider (ISP)
