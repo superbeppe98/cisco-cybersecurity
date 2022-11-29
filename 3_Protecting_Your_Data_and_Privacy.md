@@ -145,5 +145,165 @@ To erase data so that it is no longer recoverable, it must be overwritten with o
 
 The only way to be certain that data or files are not recoverable is to physically destroy the hard drive or storage device. Many criminals have taken advantage of files thought to be impenetrable or irrecoverable!
 
+3.3.1 Terms of Service
+You have been asked to set up an online photo storage and sharing account to be used for creative collaboration with the design department and other teams at @Apollo.
+
+When signing up, you are prompted to sign a service agreement with the provider. You don’t think too much about it and agree to all the terms without reading them.
+
+You have just signed a Terms of Service agreement. But do you know what this is? Consider the following options and choose the one you think best describes a Terms of Service agreement.
+
+Select the correct answer, then Submit.
+
+3.3.2 Understand the Terms
+Slide show. Select the next button to progress.
+The Terms of Service will include a number of sections, from user rights and responsibilities to disclaimers and account modification terms.
+
+Select the arrows to find out more.
+
+The data use policy outlines how the service provider will collect, use and share your data.
+The privacy settings allow you to control who sees information about you and who can access your profile or account data.
+The security policy outlines what the company is doing to secure the data it obtains from you.
+
+3.3.3 What Are You Agreeing To?
+You have successfully created the @Apollo account and agreed to the Terms of Service of the online photo sharing company. But do you really know what you have signed up for?
+
+Let’s take a closer look.
+
+3.3.4 The Data Use Policy
+The data use policy of the company you used to set up the account states that for any content you publish: “you grant us a non-exclusive, transferable, sub-licensable, royalty-free, and worldwide license to host, use, distribute, modify, run, copy, publicly perform or display, translate, and create derivative works of your content (consistent with your privacy and application settings)”.
+
+What does this statement really mean?
+
+Select the correct answer, then Submit.
+
+3.3.5 Privacy Settings
+As you didn’t set the privacy settings before you accepted the terms, default settings were applied.
+Which of the following do you think is more likely?
+
+Select the correct answer, then Submit.
+
+3.3.6 Before You Sign Up
+This component is a flipcard comprised of flippable cards containing display image. Select the front face image to flip to the back face of these card to display associated text.
+What factors should you consider before you sign up to an online service?
+
+Select the image to find out.
+
+Have you read the Terms of Service?
+What are your rights regarding your data?
+Can you request a copy of your data?
+What can the provider do with the data you upload?
+What happens to your data when you close your account?
+
+3.3.7 Protect Your Data
+You must always take appropriate action to protect your data and safeguard your account.
+
+Thinking back to the Terms of Service examples outlined above, what can you do to protect yourself when you enter into an agreement with an online service provider? What can you do to safeguard your account and protect your data?
+
+
+3.4.1 Two Factor Authentication
+
+Popular online services, such as Google, Facebook, Twitter, LinkedIn, Apple and Microsoft, use two factor authentication to add an extra layer of security for account logins.
+
+Besides your username and password or personal identification number (PIN), two factor authentication requires a second token to verify your identity. This may be a:
+
+physical object such as a credit card, mobile phone or fob
+biometric scan such as a fingerprint or facial and voice recognition
+verification code sent via SMS or email.
+Click here to find out more about two factor authentication.
+
+Be careful!
+
+Even with two factor authentication, hackers can still gain access to online accounts through phishing attacks, malware and social engineering.
+
+3.4.2 Open Authorization
+Slide show. Select the next button to progress.
+Open authorization (OAuth) is an open standard protocol that allows you to use your credentials to access third-party applications without exposing your password.
+
+Select the arrows to see what this means in practice.
+
+You are looking forward to registering for Cisco’s ‘Cybersecurity Essentials,’ the next course in this series, to help you develop your career. But you must be logged into the eLearning portal to do so.
+
+You can’t remember your login details, but that’s OK. The portal gives you the option of logging in using your credentials from a social media website such as Facebook or via another account such as Google.
+
+So instead of having to reset your login details, you log into the eLearning portal using your existing social media accounts and register for your next course with ease. You can’t wait to get started!
+
+3.4.3 Social Sharing
+This is a multiple choice question. Once you have selected an option, select the submit button below
+You decide to update your new job position on your social networks. When doing so, one of the sites asks you to update your profile information to ensure you receive the content that you really don’t want to miss!
+
+You take a look at the missing fields. Which ones do you fill in? Remember, answering correctly will improve your privacy settings, so think carefully about the information you want to share online.
+
+Select the two correct answers, then Submit.
+
+3.4.4 Don't Get Spoofed
+This is a media player component. Select the play / pause button to watch or listen.
+A simple forged or spoofed email can lead to a massive data breach and perhaps cause irreversible damage to your reputation.
+
+Press the play button to find out how.
+
+The Internet is a great tool for not only accessing information quickly and easily but also for communicating with friends, family and colleagues. But did you know that anyone with physical access to your device or router can view what websites you’ve visited? And that every time you send an email, it is readable by anyone who has access to the digital chain between you and your recipient?
+
+So, what can you do?
+
+3.4.5 Email and Web Browser Privacy
+These problems can be minimized by enabling the in-private browsing mode on your web browser. Many of the most commonly used web browsers have their own name for private browser mode:
+
+Microsoft Internet Explorer: InPrivate
+
+Google Chrome: Incognito
+
+Mozilla Firefox: Private tab or private window
+
+Safari: Private browsing
+
+Select the image to find out how private mode works.
+
+When private mode is enabled, cookies — files saved to your device to indicate what websites you’ve visited — are disabled. Therefore, any temporary internet files are removed and your browsing history is deleted when you close the window or program. This may help to prevent others from gathering information about your online activities and trying to entice you to buy something with targeted ads.
+
+Even with private browsing enabled and cookies disabled, companies are constantly developing new ways of fingerprinting users in order to track their online behavior. For example, some intermediary devices, like routers, can gather information about a user’s web surfing history.
+
+3.5.1 Scenario 1
+This is a media player component. Select the play / pause button to watch or listen.
+Do you know what information is safe to share on social media sites?
+
+Press the play button to watch the video.
+
+It’s surprising what people post on social media without thinking! Which of the following do you think poses a risk if posted on social media?
+
+Select three correct answers, then Submit.
+
+3.5.2 Scenario 2
+This is a media player component. Select the play / pause button to watch or listen.
+When creating a new account in an online service, what password do you use? Is it secure?
+
+Press the play button to watch the video
+
+3.5.3 Scenario 3
+This is a media player component. Select the play / pause button to watch or listen.
+Connecting to an open Wi-Fi hotspot can make your system and data vulnerable to an attack.
+
+Press the play button to watch the video.
+
+3.5.4 Scenario 4
+This is a media player component. Select the play / pause button to watch or listen.
+Are you aware of the risks that come when downloading a trial version of a program?
+
+Press the play button to watch the video.
+
+3.5.5 Scenario 5
+This is a media player component. Select the play / pause button to watch or listen.
+Have you ever had a warning message telling you to download a diagnostics program that will make your computer safe? You should be aware of the risks.
+
+Press the play button to watch the video.
+
+This message appears while you are online. Which of the following actions should you take?
+
+Select the correct answer from each dropdown list, then Submit.
+
+3.5.6 Scenario 6
+This is a media player component. Select the play / pause button to watch or listen.
+Clicking on links in an email might seem safe, but often all is not what it seems. Make sure you know the signs to look out for!
+
+Press the play button to watch the video
 
 [Go to Next Module](./3_Protecting_Your_Data_and_Privacy.md)
