@@ -53,7 +53,7 @@
 
 ## 2.1.3 What Do You Think?
 
-- Match each of the descriptions to the correct malware type by selecting an answer from each dropdown, then Submit
+- Match each of the descriptions to the correct malware type by selecting an answer from each dropdown
 
 ## 2.2.1 Social Engineering
 
@@ -122,7 +122,6 @@ On-path attackers intercept or modify communications between two devices, such a
 - This is a multiple choice question. Once you have selected an option, select the submit button below
 You’re enjoying your lunch in the canteen when a colleague approaches you. They seem distressed
 - They explain that they can’t seem to connect to the public Wi-Fi on their phone and ask if you have the private Wi-Fi password to hand so that they can check that their phone is working
-- How would you respond?
 
 ## 2.2.8 Password Attacks
 
@@ -197,8 +196,7 @@ The SYNful Knock vulnerability allowed attackers to gain control of enterprise-g
 ## 2.3.5 What Do You Think?
 
 - This has made you think about some of the vulnerabilities that may exist at @Apollo. After some investigation you’ve noted some potential issues
-- Can you identify what category each of these vulnerabilities falls into? You have a chance to earn some defender points here and further safeguard @Apollo, so take your time
-- Choose the correct answer from each of the dropdowns, then Submit
+- Can you identify what category each of these vulnerabilities falls into?
 
 ## 2.4.1 Cryptocurrency
 

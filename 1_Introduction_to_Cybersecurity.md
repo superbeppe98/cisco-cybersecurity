@@ -27,7 +27,6 @@
 
 - It’s your first day on the job, and it’s time to choose a username for your online identity. Which of the following options would you choose?
 - This is your first chance to gain some valuable defender points at eLearning company @Apollo, so take your time and think carefully before making your choices.
-- Choose two correct answers, then Submit.
 
 ## 1.1.4 Your Data
 
