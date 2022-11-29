@@ -2,25 +2,19 @@
 
 ## 3.1.1 What Do You Think?
 
-You’ve just been issued with a new laptop at @Apollo and are getting ready to set it up. What steps would you take to secure it before use?
+- You’ve just been issued with a new laptop at @Apollo and are getting ready to set it up. What steps would you take to secure it before use?
 
 ## 3.1.2 Protecting Your Computing Devices
 
-List of expandable sections. Select each button to expand the content.
-Your computing devices are the portal to your online life, storing a lot of your personal data. Therefore, it’s important to protect the security of your devices.
-
-Turn the firewall on
-You should use at least one type of firewall (either a software firewall or a hardware firewall on a router) to protect your device from unauthorized access. The firewall should be turned on and constantly updated to prevent hackers from accessing your personal or organization data.
-
-You can click here to learn how to turn on the firewall in Windows 10, or click here for Mac OS X devices.
-
-Install antivirus and antispyware
-Malicious software, such as viruses and spyware, are designed to gain unauthorized access to your computer and your data. Once installed, viruses can destroy your data and slow down your computer. They can even take over your computer and broadcast spam emails using your account. Spyware can monitor your online activities, collect your personal information or produce unwanted pop-up ads on your web browser while you are online.
-
-To prevent this, you should only ever download software from trusted websites. However, you should always use antivirus software to provide another layer of protection. This software, which often includes antispyware, is designed to scan your computer and incoming email for viruses and delete them. Keeping your software up to date will protect your computer from any new malicious software that emerges.
-
-Manage your operating system and browser
-Hackers are always trying to take advantage of vulnerabilities that may exist in your operating system (such as Microsoft Windows or macOS) or web browser (such as Google Chrome or Apple Safari).
+- List of expandable sections. Select each button to expand the content
+- Your computing devices are the portal to your online life, storing a lot of your personal data. Therefore, it’s important to protect the security of your devices
+- Turn the firewall on
+    - You should use at least one type of firewall (either a software firewall or a hardware firewall on a router) to protect your device from unauthorized access. The firewall should be turned on and constantly updated to prevent hackers from accessing your personal or organization data
+- Install antivirus and antispyware
+    - Malicious software, such as viruses and spyware, are designed to gain unauthorized access to your computer and your data. Once installed, viruses can destroy your data and slow down your computer. They can even take over your computer and broadcast spam emails using your account. Spyware can monitor your online activities, collect your personal information or produce unwanted pop-up ads on your web browser while you are online
+    - To prevent this, you should only ever download software from trusted websites. However, you should always use antivirus software to provide another layer of protection. This software, which often includes antispyware, is designed to scan your computer and incoming email for viruses and delete them. Keeping your software up to date will protect your computer from any new malicious software that emerges
+- Manage your operating system and browser
+    - Hackers are always trying to take advantage of vulnerabilities that may exist in your operating system (such as Microsoft Windows or macOS) or web browser (such as Google Chrome or Apple Safari)
 
 Therefore, to protect your computer and your data, you should set the security settings on your computer and browser to medium level or higher. You should also regularly update your computer’s operating system, including your web browser, and download and install the latest software patches and security updates from the vendors.
 
