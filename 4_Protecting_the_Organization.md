@@ -142,38 +142,28 @@
 
 ## 4.2.3 Penetration Testing
 
-List of expandable sections. Select each button to expand the content.
-Penetration testing, commonly known as pen testing, is the act of assessing a computer system, network or organization for security vulnerabilities. A pen test seeks to breach systems, people, processes and code to uncover vulnerabilities which could be exploited. This information is then used to improve the system’s defenses to ensure that it is better able to withstand cyber attacks in the future.
-
-
-Step 1: Planning
-The pen tester gathers as much information as possible about a target system or network, its potential vulnerabilities and exploits to use against it. This involves conducting passive or active reconnaissance (footprinting) and vulnerability research.
-
-Step 2: Scanning
-The pen tester carries out active reconnaissance to probe a target system or network and identify potential weaknesses which, if exploited, could give an attacker access. Active reconnaissance may include:
-
-port scanning to identify potential access points into a target system
-vulnerability scanning to identify potential exploitable vulnerabilities of a particular target
-establishing an active connection to a target (enumeration) to identify the user account, system account and admin account.
-
-Step 3: Gaining access
-The pen tester will attempt to gain access to a target system and sniff network traffic, using various methods to exploit the system including:
-
-launching an exploit with a payload onto the system
-breaching physical barriers to assets
-social engineering
-exploiting website vulnerabilities
-exploiting software and hardware vulnerabilities or misconfigurations
-breaching access controls security
-cracking weak encrypted Wi-Fi.
-
-Step 4: Maintaining access
-The pen tester will maintain access to the target to find out what data and systems are vulnerable to exploitation. It is important that they remain undetected, typically using backdoors, Trojan horses, rootkits and other covert channels to hide their presence.
-
-When this infrastructure is in place, the pen tester will then proceed to gather the data that they consider valuable.
-
-Step 5: Analysis and reporting
-The pen tester will provide feedback via a report that recommends updates to products, policies and training to improve an organization’s security.
+- Penetration testing, commonly known as pen testing, is the act of assessing a computer system, network or organization for security vulnerabilities. A pen test seeks to breach systems, people, processes and code to uncover vulnerabilities which could be exploited. This information is then used to improve the system’s defenses to ensure that it is better able to withstand cyber attacks in the future
+- Step 1: Planning
+    - The pen tester gathers as much information as possible about a target system or network, its potential vulnerabilities and exploits to use against it. This involves conducting passive or active reconnaissance (footprinting) and vulnerability research
+- Step 2: Scanning
+    - The pen tester carries out active reconnaissance to probe a target system or network and identify potential weaknesses which, if exploited, could give an attacker access. Active reconnaissance may include:
+        - port scanning to identify potential access points into a target system
+        - vulnerability scanning to identify potential exploitable vulnerabilities of a particular target
+        - establishing an active connection to a target (enumeration) to identify the user account, system account and admin account
+- Step 3: Gaining access
+    - The pen tester will attempt to gain access to a target system and sniff network traffic, using various methods to exploit the system including:
+        - launching an exploit with a payload onto the system
+        - breaching physical barriers to assets
+        - social engineering
+        - exploiting website vulnerabilities
+        - exploiting software and hardware vulnerabilities or misconfigurations
+        - breaching access controls security
+        - cracking weak encrypted Wi-Fi
+- Step 4: Maintaining access
+    - The pen tester will maintain access to the target to find out what data and systems are vulnerable to exploitation. It is important that they remain undetected, typically using backdoors, Trojan horses, rootkits and other covert channels to hide their presence
+    - When this infrastructure is in place, the pen tester will then proceed to gather the data that they consider valuable
+- Step 5: Analysis and reporting
+    - The pen tester will provide feedback via a report that recommends updates to products, policies and training to improve an organization’s security
 
 ## 4.2.4 Your Turn
 
@@ -182,89 +172,61 @@ The pen tester will provide feedback via a report that recommends updates to pro
 ## 4.2.5 Impact Reduction
 
 - While most organizations today are aware of common security threats and put considerable effort into preventing them, no set of security practices is foolproof. Therefore, organizations must be prepared to contain the damage if a security breach occurs. And they must act fast!
-
-
-Communicate the issue
-Communication creates transparency, which is critical in this type of situation.
-
-Internally, all employees should be informed and a clear call to action communicated.
-
-Externally, all clients should be informed through direct communication and official announcements.
-
-Be sincere and accountable
-Respond to the breach in an honest and genuine way, taking responsibility where the organization is at fault.
-
-
-Provide the details
-Be open and explain why the breach took place and what information was compromised. Organizations are generally expected to take care of any client costs associated with identity theft services required as a result of a security breach.
-
-
-Find the cause
-Take steps to understand what caused and facilitated the breach. This may involve hiring forensics experts to research and find out the details.
-
-Apply lessons learned
-Make sure that any lessons learned from forensic investigations are applied to prevent similar breaches from happening in the future.
-
-Check, and check again
-Attackers will often attempt to leave a backdoor to facilitate future breaches. To prevent this from happening, make sure that all systems are clean, no backdoors are installed and nothing else has been compromised.
-
-Educate!
-Raise awareness, train and educate employees, partners and clients on how to prevent future breaches.
-
-
-Don’t forget, the impact of a security breach extends beyond the technical aspect of stolen data or damaged intellectual property. It can have a devastating effect on an organization’s reputation!
+- Communicate the issue
+    - Communication creates transparency, which is critical in this type of situation
+    - Internally, all employees should be informed and a clear call to action communicated
+    - Externally, all clients should be informed through direct communication and official announcements
+- Be sincere and accountable
+    - Respond to the breach in an honest and genuine way, taking responsibility where the organization is at fault
+- Provide the details
+    - Be open and explain why the breach took place and what information was compromised. Organizations are generally expected to take care of any client costs associated with identity theft services required as a result of a security breach
+- Find the cause
+    - Take steps to understand what caused and facilitated the breach. This may involve hiring forensics experts to research and find out the details
+- Apply lessons learned
+    - Make sure that any lessons learned from forensic investigations are applied to prevent similar breaches from happening in the future
+- Check, and check again
+    - Attackers will often attempt to leave a backdoor to facilitate future breaches. To prevent this from happening, make sure that all systems are clean, no backdoors are installed and nothing else has been compromised
+- Educate!
+    - Raise awareness, train and educate employees, partners and clients on how to prevent future breaches
+- Don’t forget, the impact of a security breach extends beyond the technical aspect of stolen data or damaged intellectual property. It can have a devastating effect on an organization’s reputation!
 
 ## 4.2.6 What Is Risk Management?
-Risk management is the formal process of continuously identifying and assessing risk in an effort to reduce the impact of threats and vulnerabilities. You cannot eliminate risk completely but you can determine acceptable levels by weighing up the impact of a threat with the cost of implementing controls to mitigate it. The cost of a control should never be more than the value of the asset you are protecting.
 
-Identify the threats that increase risk. Threats may include processes, products, attacks, potential failure or disruption of services, negative perception of an organization’s reputation, potential legal liability or loss of intellectual property.
-
-Determine the severity that each threat poses. For example, some threats may have the potential to bring an entire organization to a standstill, while other threats may be only minor inconveniences. Risk can be prioritized by assessing financial impact (a quantitative analysis) or scaled impact on an organization's operation (a qualitative analysis).
-
-
-Develop an action plan to reduce overall organization risk exposure, detailing where risk can be eliminated, mitigated, transferred or accepted.
-
-
-Continuously review any risk reduced through elimination, mitigation or transfer actions. Remember, not all risks can be eliminated, so you will need to closely monitor any threats that have been accepted.
-
-Cybersecurity is becoming a significant business concern. Organizations should therefore have plans in place to prepare for, deal with, and recover from a security breach.
-
-Here at @Apollo, we use Cisco technology. Let’s check these out.
+- Risk management is the formal process of continuously identifying and assessing risk in an effort to reduce the impact of threats and vulnerabilities. You cannot eliminate risk completely but you can determine acceptable levels by weighing up the impact of a threat with the cost of implementing controls to mitigate it. The cost of a control should never be more than the value of the asset you are protecting
+- Identify the threats that increase risk. Threats may include processes, products, attacks, potential failure or disruption of services, negative perception of an organization’s reputation, potential legal liability or loss of intellectual property
+- Determine the severity that each threat poses. For example, some threats may have the potential to bring an entire organization to a standstill, while other threats may be only minor inconveniences. Risk can be prioritized by assessing financial impact (a quantitative analysis) or scaled impact on an organization's operation (a qualitative analysis)
+- Develop an action plan to reduce overall organization risk exposure, detailing where risk can be eliminated, mitigated, transferred or accepted
+- Continuously review any risk reduced through elimination, mitigation or transfer actions. Remember, not all risks can be eliminated, so you will need to closely monitor any threats that have been accepted
+- Cybersecurity is becoming a significant business concern. Organizations should therefore have plans in place to prepare for, deal with, and recover from a security breach
+- Here at @Apollo, we use Cisco technology. Let’s check these out
 
 ## 4.3.1 Cisco's CSIRT
-Many large organizations have a Computer Security Incident Response Team (CSIRT) to receive, review and respond to computer security incident reports. Cisco CSIRT goes a step further and provides proactive threat assessment, mitigation planning, incident trend analysis and security architecture review in an effort to prevent security incidents from happening.
 
-Cisco’s CSIRT takes a proactive approach, collaborating with the Forum of Incident Response and Security Teams (FIRST), the National Safety Information Exchange (NSIE), the Defense Security Information Exchange (DSIE) and the DNS Operations Analysis and Research Center (DNS-OARC) to ensure we stay up-to-date with new developments.
-
-There are several national and public CSIRT organizations, like the CERT Division of the Software Engineering Institute at Carnegie Mellon University, that are available to help organizations and national CSIRTs to develop, operate and improve their incident management capabilities.
-
+Many large organizations have a Computer Security Incident Response Team (CSIRT) to receive, review and respond to computer security incident reports. Cisco CSIRT goes a step further and provides proactive threat assessment, mitigation planning, incident trend analysis and security architecture review in an effort to prevent security incidents from happening
+Cisco’s CSIRT takes a proactive approach, collaborating with the Forum of Incident Response and Security Teams (FIRST), the National Safety Information Exchange (NSIE), the Defense Security Information Exchange (DSIE) and the DNS Operations Analysis and Research Center (DNS-OARC) to ensure we stay up-to-date with new developments
+There are several national and public CSIRT organizations, like the CERT Division of the Software Engineering Institute at Carnegie Mellon University, that are available to help organizations and national CSIRTs to develop, operate and improve their incident management capabilities
 
 ## 4.3.2 Security Playbook
-One of the best ways to prepare for a security breach is to prevent it. Organizations should provide guidance on:
 
-how to identify the cybersecurity risk to systems, assets, data and capabilities
-the implementation of safeguards and personnel training
-a flexible response plan that minimizes the impact and damage in the event of a security breach
-security measures and processes that need to be put in place in the aftermath of a security breach.
-All this information should be compiled into a security playbook.
-
-A security playbook is a collection of repeatable queries or reports that outline a standardized process for incident detection and response. Ideally, a security playbook should:
-
-highlight how to identify and automate the response to common threats such as the detection of malware-infected machines, suspicious network activity or irregular authentication attempts
-describe and clearly define inbound and outbound traffic
-provide summary information including trends, statistics and counts
-provide usable and quick access to key statistics and metrics
-correlate events across all relevant data sources.
-
+- One of the best ways to prepare for a security breach is to prevent it. Organizations should provide guidance on:
+    - how to identify the cybersecurity risk to systems, assets, data and capabilities
+    - the implementation of safeguards and personnel training
+    - a flexible response plan that minimizes the impact and damage in the event of a security breach
+    - security measures and processes that need to be put in place in the aftermath of a security breach
+- All this information should be compiled into a security playbook.
+    - A security playbook is a collection of repeatable queries or reports that outline a standardized process for incident detection and response. Ideally, a security playbook should:
+        - highlight how to identify and automate the response to common threats such as the detection of malware-infected machines, suspicious network activity or irregular authentication attempts
+        - describe and clearly define inbound and outbound traffic
+        - provide summary information including trends, statistics and counts
+        - provide usable and quick access to key statistics and metrics
+        - correlate events across all relevant data sources.
 
 ## 4.3.3 Tools for Incident Detection and Prevention
-There are a range of tools used to detect and prevent security incidents.
 
-A Security Information and Event Management (SIEM) system collects and analyzes security alerts, logs and other real-time and historical data from security devices on the network to facilitate early detection of cyber attacks.
-
-A Data Loss Prevention (DLP) system is designed to stop sensitive data from being stolen from or escaping a network. It monitors and protects data in three different states: data in use (data being accessed by a user), data in motion (data traveling through the network) and data at rest (data stored in a computer network or device).
-
-Defining and implementing all of these various security policies can be time consuming and challenging. But Cisco has come up with a solution.
+- There are a range of tools used to detect and prevent security incidents
+- A Security Information and Event Management (SIEM) system collects and analyzes security alerts, logs and other real-time and historical data from security devices on the network to facilitate early detection of cyber attacks
+- A Data Loss Prevention (DLP) system is designed to stop sensitive data from being stolen from or escaping a network. It monitors and protects data in three different states: data in use (data being accessed by a user), data in motion (data traveling through the network) and data at rest (data stored in a computer network or device)
+- Defining and implementing all of these various security policies can be time consuming and challenging. But Cisco has come up with a solution
 
 ## 4.3.4 Cisco’s ISE and TrustSec
 
