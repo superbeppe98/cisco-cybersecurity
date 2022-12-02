@@ -4,6 +4,8 @@
 - Module 1: [Introduction to Cybersecurity](./1_Introduction_to_Cybersecurity.md)
 - Module 2: [Attacks, Concepts and Techniques](./2_Attacks,_Concepts_and_Techniques.md)
 - Module 3: [Protecting Your Data and Privacy](./3_Protecting_Your_Data_and_Privacy.md)
+- Module 4: [Protecting the Organization](./4_Protecting_the_Organization.md)
+- Module 5: [Will Your Future Be in Cybersecurity?](./5_Will_Your_Future_Be_in_Cybersecurity%3F.md)
 <br>
 
 ## Course Overview

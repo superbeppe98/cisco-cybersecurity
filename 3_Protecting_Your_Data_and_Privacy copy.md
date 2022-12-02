@@ -236,4 +236,4 @@ Are you aware of the risks that come when downloading a trial version of a progr
 - This is a media player component. Select the play / pause button to watch or listen.
 - Clicking on links in an email might seem safe, but often all is not what it seems. Make sure you know the signs to look out for!
 
-[Go to Next Module](./3_Protecting_Your_Data_and_Privacy.md)
+[Go to Next Module](./4_Protecting_the_Organization.md)
